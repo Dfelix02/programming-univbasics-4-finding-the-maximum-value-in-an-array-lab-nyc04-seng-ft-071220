@@ -4,4 +4,5 @@ def find_max_value(array)
     if array[index] < array[index+1]
       max = array[index+1]
     end
+  end
 end
